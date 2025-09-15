@@ -47,6 +47,7 @@ public class Game {
 
     public void printBoard(){
         board.print();
+        System.out.println("--------------");
     }
 
 
